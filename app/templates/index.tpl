@@ -6,5 +6,8 @@
             <div class="col-md-12" style="text-align: center;">
                 <p>Body</p>
                 <p>{{test_message}}</p>
+                <p>
+                    Your location: Lon: {{location[0]}}, Lat: {{location[1]}}
+                </p>
             </div>
         </div>
